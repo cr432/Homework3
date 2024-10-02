@@ -1,0 +1,11 @@
+*.sw*
+.coverage
+.pytest_cache
+*__pycache__
+__pycache__/
+.env
+.DS_Store
+*.pyc
+.git
+**/__pycache__
+venv/
